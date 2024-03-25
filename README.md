@@ -1,4 +1,4 @@
-# Azure_Admin_Topics-Tasks
+# DevOps_Hands_On_Topics-Tasks
 
 **Real-World of DevOps Topics & Projects For Learning**
 
