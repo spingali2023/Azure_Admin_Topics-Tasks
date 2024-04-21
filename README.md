@@ -8,11 +8,11 @@ Main theam of this page is Learning new skills , concepts and working on real ti
 **We are going to learn below topics in next 12 weeks**
 
 **Week -1:**
-Linux fundementals
+Linux fundementals,
 shell scripting project
 
 **week-2:**
-cloud computing
+cloud computing,
 about the cloud provider varities
 
 **week-3:**
@@ -25,22 +25,22 @@ azure cloud admin tasks
 Docker
 
 **week-6 & 7:**
-kubernets
-project on kubernets
+kubernets,
+project on kubernets,
 Gitops
 
 **week-8:**
-azure DevOps tasks
+azure DevOps tasks,
 Project on Azure DevOps
 
 **week-9 & 10:**
-Ansible
-Jenkins
-Maven
+Ansible,
+Jenkins,
+Maven,
 Project on Jenkins
 
 **week-11&12 :**
-ELK
+ELK,
 Splunk
 
 **Hit the Star! ⭐**
